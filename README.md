@@ -1,2 +1,0 @@
-# gitstudy
-my git stdudy
